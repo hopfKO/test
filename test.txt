@@ -4,3 +4,4 @@ kuso
 uho 
 kasu
 chinco
+chinco2
