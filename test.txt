@@ -2,3 +2,4 @@ hello
 unchi
 kuso
 uho 
+kasu
